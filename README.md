@@ -1,2 +1,2 @@
-# NAAMSHOES
- shoes shop
+# Personal website
+ for RGH✨️👩‍💻
