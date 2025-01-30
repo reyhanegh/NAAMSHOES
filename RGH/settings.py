@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'RGHwebsite.apps.RghwebsiteConfig'
 ]
 
 MIDDLEWARE = [
