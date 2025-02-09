@@ -3,7 +3,7 @@ from RGHwebsite.views import *
 
 urlpatterns = [
     path('aboutUs/', aboutUs),
-    path('', home),
+    path('', home)
 
 
 ]
