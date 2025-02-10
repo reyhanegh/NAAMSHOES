@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'RGHwebsite.apps.RghwebsiteConfig'
+    'RGHwebsite.apps.RghwebsiteConfig',
+    'blog.apps.BlogConfig'
 ]
 
 MIDDLEWARE = [
